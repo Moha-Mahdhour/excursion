@@ -1,0 +1,50 @@
+body {
+  background-color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main-header {
+  color: white;
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+
+video {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.sub-header {
+  color: white;
+  font-weight: 300;
+  font-size: 32px;
+  text-align: center;
+}
+
+.after-sub {
+  font-size: 21px;
+  color: gray;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.phone {
+  margin-top: 20px;
+}
+
+.company-name {
+  color: gray;
+  text-align: right;
+}
